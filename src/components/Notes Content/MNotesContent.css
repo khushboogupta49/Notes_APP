@@ -1,0 +1,46 @@
+.m_notes_content_body{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+    height: auto;
+    width: 90vw;
+    margin: 15px;
+    /* margin: 1vh 0 1vh 0; */
+    box-shadow: 0 4px 20px 0 rgba(0, 10, 0, 0.35);
+    background-color: #faf9f8;
+
+}
+
+.m_notes_content_date_time_details{
+    width: 85vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    min-height: 4vh;
+    /* background-color: #F7ECDC; */
+    margin: 10px;
+   
+
+    
+
+ 
+}
+
+.m_notes_content_date, .m_notes_content_time{
+    font-size: 2vh;
+    font-weight: 600;
+    /* margin-left: 2vh; */
+}
+
+.m_notes_content_details{
+    min-height: 10vh;
+    height: auto;
+    /* width: 50vw; */
+    text-align: left;
+    margin: 0 1vw 0 1vw;
+  
+   
+}
